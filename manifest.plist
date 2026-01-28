@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>app.rork.flappy-bird-game-ia9c64t</string>
                 <key>bundle-version</key>
-                <string>put the app version here (the one in the plist, not the appstore, they dont match sometimes)</string>
+                <string>0.0.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
